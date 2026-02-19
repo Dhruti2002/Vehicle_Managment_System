@@ -2,7 +2,7 @@
 
 ## 📌 About The Project
 
-A simple and effective **Vehicle Management System** built with JavaScript (or your tech stack) to track, manage, and store vehicle details such as registrations, usage, driver information, and related operations. This project is ideal for learning CRUD operations, web development basics, and full-stack deployment workflows. 
+A simple and effective **Vehicle Management System** built to track, manage, and store vehicle details such as registrations, usage, driver information, and related operations. This project is ideal for learning CRUD operations, web development basics, and full-stack deployment workflows. 
 
 ## 💡 Features
 
